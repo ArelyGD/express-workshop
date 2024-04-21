@@ -1,22 +1,32 @@
 {
   "name": "express-workshop",
   "version": "1.0.0",
-  "description": "An API REST using express.js",
+  "description": "This is a workshop for learning node.js and express ",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ArelyGD/express-workshop.git"
+  },
   "keywords": [
-    "api",
-    "rest",
-    "express",
-    "node.js"
+    "Node.js",
+    "Express",
+    "PostMan",
+    "MySQL",
+    "CORS."
   ],
   "author": "Arely Garcia",
   "license": "ISC",
+  "bugs":{
+    "url": "https://github.com/ArelyGD/express-workshop/issues"
+  },
+  "homepage": "https://github.com/ArelyGD/express-workshop#readme",
   "dependencies": {
     "dotenv": "^16.4.5",
     "express": "^4.19.2"
   },
   "devDependencies": {}
 }
+
